@@ -1,0 +1,27 @@
+/* Поле-боя противника */
+.battlefield_pk
+{
+    position: absolute;
+    color: #FF6347;
+}
+
+/* Конец игры */
+.the_end
+{
+    position: fixed;
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 830px;
+    font-size: 150%;
+}
+
+
+
+/* Кол-во кораблей у противника */
+.num_of_ships
+{
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 150px;
+    font-size: 14px;
+}
